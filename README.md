@@ -22,6 +22,7 @@
 ## Someone should have told me
 * Compulsory attendance in most courses
 * Don't expect the top grades as pretty competitive
+* Always complete this minor, else those courses in general won't give grade to tag as Institute Elective.
 * It wasn't taught on slides so you have to make notes. Though some of the prof did share notes.
 * SI422 runs in alternate year as minor. It ran as minor in 2020 spring. In the rest years, it runs but not in minor slot. There maybe issue with permissions if you want to sit in them.
 * You need to do only one of SI404 or SI527 to complete the minor.
@@ -36,5 +37,10 @@
 * Applied Stochastic Processes is a side topic in some way which focusses specially on Markov Chain and how to represent them along with doing analysis like its stationary state.
 
 * Introduction to Derivative pricing wasn't done by me so I don't have any clue.
+
+## Conclusion
+This minor is an easy pick for someone who is planning to do something later on in analysis side. But this course doesn't teach anything special that you can't learn through
+materials available online. But okay, that works against every course. So, if you don't have any strong liking for other minor, and you have a good grade till date, this minor
+is a good place to start learning without much effort and mostly last day exam preparation.
 
 > Thanks for reading. For any more clarification, please drop an issue [here](https://github.com/rs9899/stats-minor-iitb/issues)
