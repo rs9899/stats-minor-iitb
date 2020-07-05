@@ -36,3 +36,5 @@
 * Applied Stochastic Processes is a side topic in some way which focusses specially on Markov Chain and how to represent them along with doing analysis like its stationary state.
 
 * Introduction to Derivative pricing wasn't done by me so I don't have any clue.
+
+> Thanks for reading. For any more clarification, please drop an issue [here](https://github.com/rs9899/stats-minor-iitb/issues)
